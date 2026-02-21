@@ -1,0 +1,14 @@
+documents:
+  dynamic_folder: 动态文档
+  log_folder: 日志
+  static_folder: 静态文档
+git:
+  branch: main
+  remote: ''
+llm:
+  api_key: ''
+  model: gpt-4
+  provider: openai
+project:
+  name: 新项目
+  path: ./project_folder
