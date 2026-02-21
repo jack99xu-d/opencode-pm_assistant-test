@@ -1,0 +1,48 @@
+{
+  "version": "1.0",
+  "generated_at": "2026-02-21T14:50:06.728608",
+  "tasks": [
+    {
+      "id": "task_1",
+      "title": "项目概述",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "task_3",
+      "title": "功能模块",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "task_4",
+      "title": "详细任务",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "task_5",
+      "title": "物料需求",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "task_6",
+      "title": "05%FS",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "task_7",
+      "title": "1MΩ~10GΩ，精度±5%",
+      "status": "pending",
+      "priority": "medium"
+    },
+    {
+      "id": "task_8",
+      "title": "风险识别",
+      "status": "pending",
+      "priority": "medium"
+    }
+  ]
+}

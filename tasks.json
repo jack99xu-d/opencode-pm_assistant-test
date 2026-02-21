@@ -1,0 +1,116 @@
+{
+  "tasks": [
+    {
+      "id": "task_1_20260221150321",
+      "title": "制定试验大纲",
+      "description": "包含功能/性能/可靠性测试",
+      "priority": "high",
+      "status": "completed",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "安全合规"
+      ],
+      "created_at": "2026-02-21T15:03:21.102473",
+      "updated_at": "2026-02-21T15:07:36.835114"
+    },
+    {
+      "id": "task_2_20260221150329",
+      "title": "台架设备机械结构设计",
+      "description": "集成目视检查、密封检测、电气检测、绝缘检测、充放电检测功能",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "机械"
+      ],
+      "created_at": "2026-02-21T15:03:29.124729",
+      "updated_at": "2026-02-21T15:03:29.124729"
+    },
+    {
+      "id": "task_3_20260221150336",
+      "title": "CAN通讯模块开发",
+      "description": "支持4G/Wi-Fi/AP热点通讯",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "嵌入式"
+      ],
+      "created_at": "2026-02-21T15:03:36.778638",
+      "updated_at": "2026-02-21T15:03:36.778638"
+    },
+    {
+      "id": "task_4_20260221150344",
+      "title": "便携式设备电路设计",
+      "description": "支持CAN通讯、数据存储、可视化、无固定电源场景检测",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "硬件"
+      ],
+      "created_at": "2026-02-21T15:03:44.249618",
+      "updated_at": "2026-02-21T15:03:44.249618"
+    },
+    {
+      "id": "task_5_20260221150350",
+      "title": "数据上传接口开发（LES系统）",
+      "description": "支持Wi-Fi/以太网/USB数据上传，对接LES系统",
+      "priority": "medium",
+      "status": "pending",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "软件"
+      ],
+      "created_at": "2026-02-21T15:03:50.712215",
+      "updated_at": "2026-02-21T15:03:50.712215"
+    },
+    {
+      "id": "task_6_20260221150359",
+      "title": "绝缘检测算法实现",
+      "description": "绝缘电阻检测，量程0.1MΩ~10GΩ，精度±5%",
+      "priority": "high",
+      "status": "pending",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "算法"
+      ],
+      "created_at": "2026-02-21T15:03:59.469245",
+      "updated_at": "2026-02-21T15:03:59.469245"
+    },
+    {
+      "id": "task_7_20260221150405",
+      "title": "便携设备触屏UI开发",
+      "description": "一体化集成，≥7英寸触摸屏数据可视化",
+      "priority": "medium",
+      "status": "pending",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "软件"
+      ],
+      "created_at": "2026-02-21T15:04:05.356521",
+      "updated_at": "2026-02-21T15:04:05.356521"
+    },
+    {
+      "id": "task_8_20260221150411",
+      "title": "设备操作说明书编写",
+      "description": "设备操作说明书编写",
+      "priority": "low",
+      "status": "pending",
+      "due_date": "",
+      "tags": [
+        "EREV",
+        "文档"
+      ],
+      "created_at": "2026-02-21T15:04:11.654392",
+      "updated_at": "2026-02-21T15:04:11.654392"
+    }
+  ]
+}
